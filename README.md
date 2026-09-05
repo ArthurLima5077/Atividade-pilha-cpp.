@@ -1,1 +1,1 @@
-# Atividade-pilha-cpp.
+Aluno: Arthur Phillipe Silva Galvão de Melo Lima Turma: Ciência da Computação, cadeira de estrutura de dados manhã. Descrição: Atividade com entrega para 04/09/2026 de C++ da cadeira de estrutura de dados. Instruções: Para utilização do código, ter em seu dispositivo o suporte para a linguagem C++ e um meio de ver o print dos códigos.
